@@ -44,5 +44,3 @@ if __name__ == "__main__":
 			[15, 35, 0, 30], [20, 25, 30, 0]]
 	s = 0
 	print(travellingSalesmanProblem(graph, s))
-plt.plot(graph)
-plt.show()
